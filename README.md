@@ -1,6 +1,6 @@
 # OrchardSkills.OrchardCore.Stripe
 
-Stripe Payment in Orchard Core
+Stripe Payments in Orchard Core
 
 ## Etch UK Ltd. Content Permissions module
 
