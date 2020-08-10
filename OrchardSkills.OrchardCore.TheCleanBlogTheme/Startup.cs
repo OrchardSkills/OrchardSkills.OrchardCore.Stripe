@@ -33,7 +33,7 @@ namespace OrchardCore.Themes.TheCleanBlogTheme
         {
             var stripeApiKey = Configuration["Stripe:ApiKey"];
 
-            StripeConfiguration.SetApiKey(stripeApiKey);
+            StripeConfiguration.ApiKey = stripeApiKey;
         }
 
         public override void Configure(IApplicationBuilder builder, IEndpointRouteBuilder routes, IServiceProvider serviceProvider)

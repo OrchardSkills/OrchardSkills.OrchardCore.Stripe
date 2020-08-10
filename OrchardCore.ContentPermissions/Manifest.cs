@@ -5,6 +5,6 @@
     Category = "Security",
     Description = "Configuring access at a per content item level.",
     Name = "Content Permissions",
-    Version = "1.0.0",
+    Version = "1.0.0-RC2",
     Website = "https://etchuk.com"
 )]
